@@ -39,37 +39,6 @@
 
 ---
 
-## 📊 Current Skill Focus
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🐍 Python
-`████████████████░░░░` **Building**
-
-### 🐧 Linux
-`██████████████░░░░░░` **Growing**
-
-### 🌐 Networking
-`█████████████░░░░░░░` **Growing**
-
-</td>
-
-<td width="50%">
-
-### 🛡️ Cybersecurity
-`████████████░░░░░░░░` **Learning**
-
-### ⚙️ Automation
-`████████████░░░░░░░░` **Learning**
-
-### 💻 C / C++
-`███████████░░░░░░░░░` **Academic + Projects**
-
-</td>
-</tr>
-</table>
 
 <p align="center">
   <i>These bars represent my current learning focus, not formal proficiency ratings.</i>
