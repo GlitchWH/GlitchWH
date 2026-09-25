@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Waqas Hussain</h1>
 
 <h3 align="center">
-  🧑‍💻 Nickname: GlitchWH 
+  🧑‍💻 Nickname: GlitchWH -- 
   Computer Systems Engineering Student • 🐍 Python Developer • 🛡️ Cybersecurity Enthusiast
 </h3>
 
