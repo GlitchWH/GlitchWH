@@ -2,7 +2,7 @@
 
 <h3 align="center">
   🧑‍💻 Nickname: GlitchWH -- 
-  Computer Systems Engineering Student • 🐍 Python Developer • 🛡️ Cybersecurity Enthusiast
+  Computer Systems Engineering Student • 🐍 Python Developer • 🛡️ Aspiring Cybersecurity Professional
 </h3>
 
 <p align="center">
