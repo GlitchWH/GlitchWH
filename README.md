@@ -38,12 +38,6 @@
 </p>
 
 ---
-
-
-<p align="center">
-  <i>These bars represent my current learning focus, not formal proficiency ratings.</i>
-</p>
-
 ---
 
 ## 🛡️ Security & Networking
